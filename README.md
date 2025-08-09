@@ -2,7 +2,7 @@
 
 
 
-**• ESCOPO -** 
+**• ESCOPO -**
 
 
 
@@ -15,6 +15,6 @@ Construir um projeto completo envolvendo coleta, tratamento, armazenamento, aná
 **1. Fonte de Dados** -
 
 * Cotação de moedas estrangeiras
-* Fonte: Site do Banco Central do Brasil 
+* Fonte: Site - Banco Central do Brasil
 * Frequência: Diária
-* Forma de Coleta: Web scraping 
+* Forma de Coleta: API REST 
